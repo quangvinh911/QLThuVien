@@ -1,4 +1,0 @@
-D:\Study\0.0_Thuc Tap\QuanLyThuVien\BIN\DTO.dll
-D:\Study\0.0_Thuc Tap\QuanLyThuVien\BIN\DTO.pdb
-D:\Study\0.0_Thuc Tap\QuanLyThuVien\DTO\obj\Debug\DTO.dll
-D:\Study\0.0_Thuc Tap\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
